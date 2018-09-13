@@ -1,0 +1,17 @@
+{
+  "name": "testing123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "registrationtest.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "fs": "^0.0.1-security",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
